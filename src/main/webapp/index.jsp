@@ -647,7 +647,7 @@
         <!-- Testimonials -->
         <section class="section container" aria-labelledby="test-title">
             <div class="title" id="test-title">
-                <h2>What our customers say</h2>
+                <h2>What our customers says</h2>
                 <p class="muted">Real reviews from verified buyers.</p>
             </div>
 
